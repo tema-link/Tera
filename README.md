@@ -1,5 +1,5 @@
-# Tera
+# R6S information
 
-## Test
-
-### Update TEST
+## Index
+1. R6S Map
+2. R6S Operator
